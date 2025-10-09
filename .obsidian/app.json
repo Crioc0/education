@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 Inbox"
+  "newFileFolderPath": "00 Inbox",
+  "userIgnoreFilters": [
+    "templates/"
+  ]
 }
