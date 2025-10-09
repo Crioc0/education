@@ -11,10 +11,14 @@
             "id": "b42e4e088ac02c3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Без названия.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Inbox/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00 Inbox/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Без названия"
             }
           },
           {
@@ -159,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +176,21 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "e01039ba9a8ecd72",
-  "lastOpenFiles": []
+  "active": "93e53ddf71eded31",
+  "lastOpenFiles": [
+    "03 Assets",
+    "02 Structure Notes",
+    "01 Notes",
+    "templates/Zettelcasten Note.md",
+    "00 Inbox/Без названия.md",
+    "Без названия 1",
+    "templates/Шаблон Structure Notes.md",
+    "Добро пожаловать.md",
+    "templates",
+    "00 Inbox"
+  ]
 }
