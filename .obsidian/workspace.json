@@ -11,14 +11,12 @@
             "id": "b42e4e088ac02c3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 Notes/202510090913 Классификация баз данных.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Assets/Реляционная модель.png"
               },
-              "icon": "lucide-file",
-              "title": "202510090913 Классификация баз данных"
+              "icon": "lucide-image",
+              "title": "Реляционная модель"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/202510090913 Классификация баз данных.md",
+                "file": "03 Assets/Реляционная модель.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 202510090913 Классификация баз данных"
+              "title": "Обратные ссылки для Реляционная модель"
             }
           },
           {
@@ -141,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510090913 Классификация баз данных.md",
+                "file": "03 Assets/Реляционная модель.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510090913 Классификация баз данных"
+              "title": "Структура Реляционная модель"
             }
           },
           {
@@ -180,8 +178,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "b42e4e088ac02c3d",
+  "active": "93e53ddf71eded31",
   "lastOpenFiles": [
+    "01 Notes/202510091121 Виды моделей баз данных по логической структуре.md",
+    "03 Assets/Реляционная модель.png",
+    "03 Assets/Сетевая модель.png",
+    "03 Assets/Иерархическая структура.png",
     "01 Notes/202510090859 База данных.md",
     "01 Notes/202510090913 Классификация баз данных.md",
     "01 Notes/202510090905 Что такое предметная область, объект, атрибут.md",
