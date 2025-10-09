@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510091504.md",
+                "file": "01 Notes/202510091504 Независимость данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510091504"
+              "title": "202510091504 Независимость данных"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/202510091504.md",
+                "file": "01 Notes/202510091504 Независимость данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 202510091504"
+              "title": "Обратные ссылки для 202510091504 Независимость данных"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510091504.md",
+                "file": "01 Notes/202510091504 Независимость данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510091504"
+              "title": "Структура 202510091504 Независимость данных"
             }
           },
           {
@@ -182,7 +182,7 @@
   },
   "active": "b42e4e088ac02c3d",
   "lastOpenFiles": [
-    "01 Notes/202510091504.md",
+    "01 Notes/202510091504 Независимость данных.md",
     "01 Notes/202510091502 Основные понятия теории баз данных.md",
     "01 Notes/202510091503 Этапы работы с базами данных.md",
     "01 Notes/202510091500 Терминология баз данных.md",
