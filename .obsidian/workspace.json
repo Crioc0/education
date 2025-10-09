@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510091421 СУБД.md",
+                "file": "01 Notes/202510091500 Терминология баз даных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510091421 СУБД"
+              "title": "202510091500 Терминология баз даных"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/202510091421 СУБД.md",
+                "file": "01 Notes/202510091500 Терминология баз даных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 202510091421 СУБД"
+              "title": "Обратные ссылки для 202510091500 Терминология баз даных"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/202510091421 СУБД.md",
+                "file": "01 Notes/202510091500 Терминология баз даных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 202510091421 СУБД"
+              "title": "Структура 202510091500 Терминология баз даных"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "b42e4e088ac02c3d",
   "lastOpenFiles": [
+    "01 Notes/202510091500 Терминология баз даных.md",
     "01 Notes/202510091417 Управление базами данных.md",
     "01 Notes/202510091421 СУБД.md",
     "01 Notes/202510090859 База данных.md",
