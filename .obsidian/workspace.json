@@ -11,12 +11,14 @@
             "id": "b42e4e088ac02c3d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 Assets/Pasted image 20251014100902.png"
+                "file": "02 Structure Notes/Проектирование баз данных.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251014100902"
+              "icon": "lucide-file",
+              "title": "Проектирование баз данных"
             }
           }
         ]
@@ -178,10 +180,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "93e53ddf71eded31",
+  "active": "b42e4e088ac02c3d",
   "lastOpenFiles": [
+    "03 Assets/Структура информационных технологий.png",
     "01 Notes/202510140948 Платформа информационных технологий.md",
-    "03 Assets/Pasted image 20251014100902.png",
     "01 Notes/202510140924 Информационные технологии.md",
     "01 Notes/202510140908 Что такое информатика.md",
     "01 Notes/202510140831 Что такое информация.md",
