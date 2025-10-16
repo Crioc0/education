@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/202510151405 Информационная безопасность.md",
+                "file": "templates/{{title}} {{date}} {{time}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510151405 Информационная безопасность"
+              "title": "{{title}} {{date}} {{time}}"
             }
           },
           {
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Проектирование баз данных"
             }
-          },
-          {
-            "id": "9a2db882c72347d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,19 +194,24 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "9a2db882c72347d6",
+  "active": "b42e4e088ac02c3d",
   "lastOpenFiles": [
-    "linter-config.json~",
+    "00 Inbox/тест 3 2025-10-16 0915.md",
+    "01 Notes/202510151405 Информационная безопасность.md",
+    "templates/{{title}} {{date}} {{time}}.md",
     "02 Structure Notes/Проектирование баз данных.md",
-    "00 Inbox/Без названия.md",
+    "02 Structure Notes/Информационные технологии в профессиональной деятельности.md",
+    "00 Inbox/Zettelcasten Note 2025-10-16 0914.md",
     "templates/Шаблон Structure Notes.md",
+    "00 Inbox/Тест.md",
+    "00 Inbox/Без названия.md",
+    "linter-config.json~",
     "00 Inbox/__proto__ и Prototype.md",
     "linter-config.json.md",
     "linter-config.json",
     "linter-config.sjon.txt",
     "Текстовый документ.txt",
     "00 Inbox/Без названия 1.md",
-    "01 Notes/202510151405 Информационная безопасность.md",
     "01 Notes/202510141027 Жизненный цикл информации.md",
     "01 Notes/202510151358 Жизненный цикл компьютерных программ.md",
     "01 Notes/202510151348 Системный подход к моделированию.md",
@@ -237,12 +227,8 @@
     "01 Notes/202510140908 Что такое информатика.md",
     "01 Notes/202510140831 Что такое информация.md",
     "01 Notes/202510140858 Чем характеризуется информация.md",
-    "01 Notes/202510140901 Что такое источник.md",
     "03 Assets/Система Поставщик-потребитель информации.png",
-    "01 Notes/202510140850 Что такое знания.md",
     "03 Assets/Соотношение понятий информация, данные и знания.png",
-    "01 Notes/202510140848 Что такое сведения.md",
-    "01 Notes/202510140846 Что такое сообщения.md",
     "03 Assets/Иерархическая структура в форме таблицы.png",
     "03 Assets/Реляционная модель.png",
     "03 Assets/Сетевая модель.png",

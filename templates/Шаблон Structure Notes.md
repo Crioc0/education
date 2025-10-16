@@ -2,6 +2,7 @@
 tags:
   - structure-notes
 ---
+# Шаблон Structure Notes
 ### Связи с другими Structure Notes
 [[]]
 ## Последние заметки за неделю
