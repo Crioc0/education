@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "templates",
+      "folder": "01 Notes",
       "template": "templates/{{YYYY}} {{title}}.md"
     }
   ],
@@ -32,7 +32,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "templates/{{YYYY}} {{title}}.md"
   ],
   "intellisense_render": 1
 }
