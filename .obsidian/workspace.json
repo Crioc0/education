@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/{{title}} {{date}} {{time}}.md",
+                "file": "01 Notes/Тест 6.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "{{title}} {{date}} {{time}}"
+              "title": "Тест 6"
             }
           },
           {
@@ -191,15 +191,20 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b42e4e088ac02c3d",
   "lastOpenFiles": [
-    "00 Inbox/тест 3 2025-10-16 0915.md",
+    "01 Notes/Без названия.md",
+    "01 Notes/Тест 6.md",
     "01 Notes/202510151405 Информационная безопасность.md",
-    "templates/{{title}} {{date}} {{time}}.md",
     "02 Structure Notes/Проектирование баз данных.md",
+    "templates/{{YYYY}} {{title}}.md",
+    "01 Notes/{{YYYY}} Тест 5.md",
+    "03 Assets/Пример неструктурированной информации.png",
+    "00 Inbox/тест 3 2025-10-16 0915.md",
     "02 Structure Notes/Информационные технологии в профессиональной деятельности.md",
     "00 Inbox/Zettelcasten Note 2025-10-16 0914.md",
     "templates/Шаблон Structure Notes.md",
@@ -224,9 +229,6 @@
     "01 Notes/202510140948 Платформа информационных технологий.md",
     "03 Assets/Структура информационных технологий.png",
     "01 Notes/202510140924 Информационные технологии.md",
-    "01 Notes/202510140908 Что такое информатика.md",
-    "01 Notes/202510140831 Что такое информация.md",
-    "01 Notes/202510140858 Чем характеризуется информация.md",
     "03 Assets/Система Поставщик-потребитель информации.png",
     "03 Assets/Соотношение понятий информация, данные и знания.png",
     "03 Assets/Иерархическая структура в форме таблицы.png",
@@ -234,7 +236,6 @@
     "03 Assets/Сетевая модель.png",
     "03 Assets/Иерархическая структура.png",
     "03 Assets/Пример структурированной информации.png",
-    "03 Assets/Пример неструктурированной информации.png",
     "03 Assets",
     "02 Structure Notes",
     "01 Notes",
