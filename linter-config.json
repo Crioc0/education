@@ -270,6 +270,11 @@
       "enabled": false
     }
   },
+  "file-name": {
+    "format": "YYYYMMDDHHmm",
+    "force": true,
+    "use-zettelkasten-id": true
+  },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
@@ -280,13 +285,7 @@
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
-  "lintCommands": [
-    {
-      "id": null,
-      "name": "",
-      "enabled": true
-    }
-  ],
+  "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
