@@ -1,9 +1,10 @@
 ---
-created: <% tp.file.creation_date() %> 
+created: <% tp.file.creation_date() %>
+zettel_id: <% tp.date.now("YYYYMMDDHHmm") %>
 tags:
   -
 ---
-#  <% tp.date.now("YYYYMMDDHHmm") %> {{title}}
+# <% tp.date.now("YYYYMMDDHHmm") %> <% tp.file.title %>
 *Ссылка на StructureNote:*
 *Ссылка на исходник или контекст (если есть):* 
 

@@ -2,6 +2,6 @@
   "obsidian-git",
   "dataview",
   "obsidian-linter",
-  "obsidian-filename-heading-sync",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-filename-heading-sync"
 ]
